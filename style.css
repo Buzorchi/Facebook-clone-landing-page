@@ -1,0 +1,91 @@
+.body{
+    background-color:#c0c0c0;
+    font-family:sans-serif;
+  }
+  h1{
+    font-size:45px;
+    color:#000080;
+    margin-top:100px;
+    margin-bottom:-20px;
+  }
+  .intro{
+   width:350px;
+    margin-top:20px;
+   font-size:20px;
+  }
+  .div-welcome-page{
+    margin-left:100px;
+    margin-top:200px;
+  }
+  
+  /* ----------form section--------- */
+  
+  form{
+    background-color:white;
+    height:257px;
+    width:360px;
+    padding:20px;
+    border-radius:10px;
+    border:none;
+    box-shadow: 1px 1px 5px grey;
+  }
+  .email{
+    height:24px;
+     border-radius:5px;
+    border:1px solid lightgrey;
+    width:350px;
+    margin:10px auto;
+    padding: 10px 10px 10px ;
+  }
+  .password{
+    height:24px;
+     border-radius:5px;
+    border:1px solid lightgrey;
+    width:350px;
+    margin:0 auto;
+    padding: 10px 10px 10px;
+    
+  }
+  .log-in{
+  height:35px;
+     border-radius:5px;
+    border:none;
+    width:359px;
+    margin:10px auto;
+    padding:10px 5px;
+    background-color:#000080;
+    color:white;
+  }
+  .forget-password{
+    margin-left:110px;
+    margin-top:2px;
+  }
+  hr{
+   border:1px solid lightgrey; 
+  }
+  .account{
+   height:35px;
+     border-radius:5px;
+    border:none;
+    width:155px;
+    margin:10px 100px ; 
+     background-color:green;
+    color:white;
+  }
+  .create{
+    margin-left:50px;
+    marrgin-bottom:5px;
+  }
+  .div-form{
+   margin-right:100px;
+    margin-top:130px; 
+  }
+  .main{
+    display:flex;
+    justify-content:center;
+  }
+  .chi-chi{
+    display:block;
+    margin-left:40px;
+    margin-right:40px;
+  }
